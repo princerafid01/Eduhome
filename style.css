@@ -19,6 +19,8 @@
 
 /*  1. Theme Default CSS
 /*----------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Lora|Open+Sans|Raleway');
+
 
 html{height: 100%;}
 body {
