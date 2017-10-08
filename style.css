@@ -215,12 +215,15 @@ header .col-md-10 {
 }
 
 header ul.navigation li.search-bar input {
-    padding: 16px 25.5px;
     border: 3px solid;
     color: #DB640D;
     border-radius: 0;
     transform: scale(0);
     transition: .3s;
+    position: absolute;
+    top: 0;
+    left: 60px;
+    padding: 16px;
 }
 .opacity{transform: scale(1)!important;}
 
